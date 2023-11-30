@@ -13,27 +13,26 @@ padding: 0;
     align-items: center;
     padding: 24px; 0;
 
-    .cabecalho-imagem{
+.cabecalho{
         width: 20%;       
     }
 
-    .cabecalho-lista-item{
+.cabecalho-lista-item{
         display:inline-block;
         margin: 0 16px;
         font-size: 24px;
     }
     
-    .projeto-div{
+.projeto-div{
         text-align: center;
         padding: 16px 0;
         }
 
-    .projeto-titulo{
+.projeto-titulo{
             text-align: center;
             padding: 50px 0;
             }
             
-
 
   
 
